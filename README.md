@@ -70,11 +70,11 @@ if(rainFall) {
 ```php
 <?php
 $color = "green";
-if(color == "green") {
+if($color == "green") {
   echo "Light is Green";
-} else if (color == "red") {
+} else if ($color == "red") {
   echo "Light is Red";
-} else if (color == "yellow") {
+} else if ($color == "yellow") {
   echo "Light is Yellow";
 } else {
   echo "Light is not Matching";
