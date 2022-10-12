@@ -59,7 +59,7 @@ $rainFall = true;
 if(rainFall) {
   echo "Today is Raining";
 } else {
-  echo "Today is Not Raining.
+  echo "Today is Not Raining".
 }
 ?>
 ```
